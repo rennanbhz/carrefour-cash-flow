@@ -1,8 +1,5 @@
 # Fluxo de Caixa - Carrefour
 
-This is the REST API for Carrefour. It includes all operations
-that supports the management of Cash Flow.
-
 Esta é uma API REST para o teste do projeto Carrefour.
 Inclui todas as operações que suportam o gerenciamento de um fluxo de caixa.
 
@@ -57,13 +54,13 @@ Então execute a classe principal **CarrefourCashFlowApplication** que irá inic
 
 ##### 1- Google Java Format
 
-No **Intellij**, vá para File > Settings > Plugins e procure por: google-java-format and install.
+Em **Intellij**, vá para File > Settings > Plugins e procure por: google-java-format and install.
 Depois de instalar, vá para File >
 Settings > Other Settings e em Google Java Format mude para Enabled.
 
 ##### 2- Save Actions
 
-On **Intellij**, vá para File > Settings > Plugins and e procure por:
+Em **Intellij**, vá para File > Settings > Plugins and e procure por:
 Save Actions e instale. depois de instalado, vá para File >
 Settings > Other Settings e em Save Actions, habilite estes campos:
 
